@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "animate/css/rails"
 
 RSpec.configure do |config|

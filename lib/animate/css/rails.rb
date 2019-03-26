@@ -3,8 +3,8 @@ require "animate/css/rails/version"
 module Animate
   module Css
     module Rails
-      class Error < StandardError; end
-      # Your code goes here...
+      class Engine < ::Rails::Engine
+      end
     end
   end
 end
