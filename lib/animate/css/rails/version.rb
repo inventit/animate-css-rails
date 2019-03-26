@@ -1,7 +1,7 @@
 module Animate
   module Css
     module Rails
-      VERSION = "0.1.0"
+      VERSION = "3.7.0"
     end
   end
 end
